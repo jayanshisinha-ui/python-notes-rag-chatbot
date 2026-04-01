@@ -1,4 +1,4 @@
-![Final rag agent](https://github.com/user-attachments/assets/a88eae1f-4c51-4540-9d3d-29c377ed7d0a)![Pre data processing](https://github.com/user-attachments/assets/a066e2b0-2c07-4e0a-baac-07814a3f0f97)# 🧠 Python Notes RAG Chatbot using n8n, OpenAI & Pinecone
+# 🧠 Python Notes RAG Chatbot using n8n, OpenAI & Pinecone
 
 ![Python](https://img.shields.io/badge/Python-Knowledge-blue)
 ![n8n](https://img.shields.io/badge/Automation-n8n-orange)
@@ -104,3 +104,5 @@ project/
 │
 └── README.md
 
+## 📸 Screenshots
+![Final rag agent](https://github.com/user-attachments/assets/a88eae1f-4c51-4540-9d3d-29c377ed7d0a)![Pre data processing](https://github.com/user-attachments/assets/a066e2b0-2c07-4e0a-baac-07814a3f0f97)
